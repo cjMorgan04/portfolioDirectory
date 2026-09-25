@@ -1,6 +1,5 @@
 # personal-portfolio-
-A collection of projects completed during my programs and career. Contains code for research and class and the respective links to view them.
-
+This is my start page, it contains links to projects done in different research or career settings. 
 
 ##############
 Academic Page~
