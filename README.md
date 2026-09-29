@@ -4,10 +4,12 @@ This is my start page, it contains links to projects done in different research 
 ##############
 Academic Page~
 
+https://github.com/cjMorgan04/academicStuff
 
 ##################
 Research Lab Page~ 
 
+https://github.com/cjMorgan04/labStuff
 
 ############################
 Personal Note and Interests~
